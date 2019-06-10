@@ -1,3 +1,0 @@
-/home/yq/gazebo_ws/myrobot/build/CMakeFiles/edit_cache.dir
-/home/yq/gazebo_ws/myrobot/build/CMakeFiles/rebuild_cache.dir
-/home/yq/gazebo_ws/myrobot/build/CMakeFiles/hello.dir
